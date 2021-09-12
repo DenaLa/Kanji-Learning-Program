@@ -1,0 +1,12 @@
+間、カン、あいだ、interval
+丸い、ガン、まるい、circle
+岩、ガン、いわ、boulder
+顔、ガン、かお、face
+汽、キ、n/a、steam
+帰る、キ、かえる、return
+弓、キュウ、ゆみ、bow (archery,violin)
+牛、ギュウ、うし、cow
+魚、ギョ、さかな、fish
+京、キョウ・ケイ、n/a、capital
+強い、ギョウ、つよい、strong
+教える、キョウ、おしえる、teach
