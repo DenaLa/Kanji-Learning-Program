@@ -1,12 +1,12 @@
-近し、キン、ちかい、near
-兄、キョウ、あに、brother
-形、ケイ、かたち、shape
-計る、ケイ、はかる、measure
-元、ゲン、もと、origin
-言う、ゲン、いう、to say
-原、ゲン、はら、field
-戸、コ、と、door
-古い、コ、ふるい、old
-午、ゴ、n/a、noon
-後、ゴ、あと、behind
-語、ゴ、かたる、talk||language
+キン、ちかい、近し、near
+キョウ、あに、兄、brother
+ケイ、かたち、形、shape
+ケイ、はかる、計る、measure
+ゲン、もと、元、origin
+ゲン、いう、言う、to say
+ゲン、はら、原、field
+コ、と、戸、door
+コ、ふるい、古い、old
+ゴ、n/a、午、noon
+ゴ、あと、後、behind
+ゴ、かたる、語、talk||language
